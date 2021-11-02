@@ -29,8 +29,9 @@ I'm İlyas from Turkey, and I'm Computer Engineer.
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ilyaskrt19?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ilyaskrt19?hr_r=1" height="30" width="30" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaskrt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaskrt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyaskrt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![](https://komarev.com/ghpvc/?username=ilyaskrt&color=lightgrey)
 
 <!--
